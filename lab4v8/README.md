@@ -30,7 +30,7 @@
   * Перевизначений метод `PowerOn()` за допомогою `override`.
   * Унікальний метод `RunProgram()`.
 
-  
+  <img width="871" height="461" alt="image" src="https://github.com/user-attachments/assets/4f4e74ec-94da-460d-9862-4ac804e031b4" />
 
   ## Контрольні запитання
 
