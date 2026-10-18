@@ -44,6 +44,10 @@
 Всього оброблено транзакцій: 5
 Загальна сума всіх транзакцій: 5 351,50 ₴
 
+
+<img width="808" height="332" alt="image" src="https://github.com/user-attachments/assets/e51943c5-f2bc-4916-b04e-cfeae0ec2c20" />
+
+
 ## Контрольні запитання
 1. Що таке поліморфізм і як він реалізується в C# за допомогою virtual та override?
 
