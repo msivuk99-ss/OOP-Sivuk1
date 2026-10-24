@@ -3,7 +3,6 @@
 **Тема:** Узагальнені типи (Generics). IRepository з where-обмеженнями та тестами.  
 **Мета:** Навчитися створювати узагальнені інтерфейси та класи, застосовувати `where`-обмеження для типів-параметрів, а також розробляти юніт-тести для перевірки коректності узагальнених реалізацій.  
 **Варіант:** 8 (Сутність `TaskItem`: Title, Description, IsCompleted)  
-**Репозиторій:** [Посилання на ваш GitHub-репозиторій](https://github.com/ваш_логін/OOP-Sivuk1)
 
 ---
 
@@ -18,6 +17,10 @@
 ---
 
 ## 2. Результати проходження юніт-тестів
+
+<img width="738" height="261" alt="image" src="https://github.com/user-attachments/assets/03924c35-822f-4e2d-8e24-3d098ce3110a" />
+
+<img width="846" height="302" alt="image" src="https://github.com/user-attachments/assets/8b6dae10-06e8-420c-a7a4-08aaa6df16fa" />
 
 
 ## Контрольні запитання
