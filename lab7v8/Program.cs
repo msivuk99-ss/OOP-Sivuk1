@@ -97,7 +97,7 @@ namespace lab7v8
 
             Console.WriteLine("=== 1. Додавання елементів ===");
             taskRepo.Add(new TaskItem(1, "Лабораторна 7", "Виконати завдання з Generics", false));
-            taskRepo.Add(new TaskItem(2, "Купити продукти", "Хліб, молоко, яблука", true));
+            taskRepo.Add(new TaskItem(2, "Купити продукты", "Хліб, молоко, яблука", true));
 
             foreach (var task in taskRepo.GetAll())
             {
