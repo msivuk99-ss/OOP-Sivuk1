@@ -11,6 +11,7 @@
 
 ## Приклад виводу програми
 
+<img width="872" height="687" alt="image" src="https://github.com/user-attachments/assets/9fbf5ccc-ea0c-4404-ad53-9ba138ccdc16" />
 
 ## Контрольні запитання
 
