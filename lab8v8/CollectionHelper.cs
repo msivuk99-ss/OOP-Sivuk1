@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace lab8v8;
 
-public static class CollectionHelper
+public static class CollectionHelper<T>
 {
-    public static bool Any<T>(IEnumerable<T> collection, Predicate<T> predicate)
+    public static bool Any(IEnumerable<T> collection, Predicate<T> predicate)
     {
         if (collection == null)
         {
