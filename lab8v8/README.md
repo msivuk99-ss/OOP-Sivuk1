@@ -1,13 +1,15 @@
 # Лабораторна робота №8 — Варіант 8
 
 **Тема:** Делегати й лямбда-вирази у практиці колекцій: `CollectionHelper<T>`  
-**Назва проєкту:** `lab14v8`
+**Назва проєкту:** `lab8v8`
 
 ## Реалізований метод
 
 У класі `CollectionHelper<T>` реалізовано статичний метод `Any`:
 
 public static bool Any<T>(IEnumerable<T> collection, Predicate<T> predicate) ;
+
+![alt text](image.png)
 
 ### Контрольні запитання
 
