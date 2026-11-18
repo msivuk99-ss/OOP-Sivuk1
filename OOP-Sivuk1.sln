@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab10v8", "lab10v8\lab10v8.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab11v8", "lab11v8\lab11v8.csproj", "{1C4C7ADD-D922-4C57-8DCD-95BA761959BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab12v8", "lab12v8\lab12v8.csproj", "{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,18 @@ Global
 		{1C4C7ADD-D922-4C57-8DCD-95BA761959BC}.Release|x64.Build.0 = Release|Any CPU
 		{1C4C7ADD-D922-4C57-8DCD-95BA761959BC}.Release|x86.ActiveCfg = Release|Any CPU
 		{1C4C7ADD-D922-4C57-8DCD-95BA761959BC}.Release|x86.Build.0 = Release|Any CPU
+		{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}.Debug|x64.Build.0 = Debug|Any CPU
+		{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}.Debug|x86.Build.0 = Debug|Any CPU
+		{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}.Release|x64.ActiveCfg = Release|Any CPU
+		{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}.Release|x64.Build.0 = Release|Any CPU
+		{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}.Release|x86.ActiveCfg = Release|Any CPU
+		{BBAB7A95-10DB-48FD-9886-1D79DBF02E8A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
